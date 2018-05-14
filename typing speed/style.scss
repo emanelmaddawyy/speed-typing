@@ -1,0 +1,42 @@
+body
+{
+    text-align: center;
+}
+$padding :40px 0;
+.masthead
+{
+    padding: $padding;
+    background: red;
+    color: #fff;
+}
+  article.intro
+{
+    background: #eee;
+    padding:$padding;
+    color: #085656;
+}
+textarea
+{
+    width: 50%;
+    border: 10px solid #ccc;
+}
+div#origin-text
+{
+    padding:$padding;
+}
+.meta
+{
+    display: flex;
+    justify-content: space-evenly;
+    padding: $padding;
+}
+button#reset {
+    border: none;
+    background: red;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    outline: none;
+}

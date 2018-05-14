@@ -1,0 +1,43 @@
+/* line 1, D:/ui/learn JS/typing speed/style.scss */
+body {
+  text-align: center; }
+
+/* line 6, D:/ui/learn JS/typing speed/style.scss */
+.masthead {
+  padding: 40px 0;
+  background: red;
+  color: #fff; }
+
+/* line 12, D:/ui/learn JS/typing speed/style.scss */
+article.intro {
+  background: #eee;
+  padding: 40px 0;
+  color: #085656; }
+
+/* line 18, D:/ui/learn JS/typing speed/style.scss */
+textarea {
+  width: 50%;
+  border: 10px solid #ccc; }
+
+/* line 23, D:/ui/learn JS/typing speed/style.scss */
+div#origin-text {
+  padding: 40px 0; }
+
+/* line 27, D:/ui/learn JS/typing speed/style.scss */
+.meta {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px 0; }
+
+/* line 33, D:/ui/learn JS/typing speed/style.scss */
+button#reset {
+  border: none;
+  background: red;
+  padding: 10px 20px;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  outline: none; }
+
+/*# sourceMappingURL=style.css.map */
